@@ -1,7 +1,7 @@
-baseURL: "https://example.com"
+baseURL: "https://codenanshu.in"
 languageCode: "en-us"
-title: "Hugo Novela"
-pygmentsstyle: 'monokai'
+title: "CodeNanshu"
+pygmentsstyle: 'dracula'
 metaDataFormat: yaml
 
 # Theme settings
@@ -11,11 +11,11 @@ module:
     - path: "github.com/forestryio/hugo-theme-novela"
 paginate: 6
 social:
-  twitter: "#"
-  github: "#"
-  instagram: "#"
+  twitter: "https://twitter.com/aianshume"
+  github: "https://github.com/aianshume"
+  instagram: "https://instagram.com/aianshu_2308"
   linkedin: "#"
   dribbble: "#"
-  youtube: "#"
+  youtube: "https://youtube.com/@CodeNanshu"
 taxonomies:
   author: authors

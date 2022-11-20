@@ -81,7 +81,7 @@ Add a similar file to your content directory and Front Matter example.
 ```yaml
 # /content/authors/firstname-lastname/_index.md
 ---
-title: Dennis Brotzky
+title: Anshu meena
 bio: |
   Written by You. This is where your author bio lives. Share your work, your
   joys and of course, your Twitter handle.
@@ -107,7 +107,7 @@ Add the name of the author to the "authors" field:
 
 ```yaml
 authors:
-  - Dennis Brotzky
+  - Anshu meena
   - Thiago Costa
 ```
 ### Newsletter call to action

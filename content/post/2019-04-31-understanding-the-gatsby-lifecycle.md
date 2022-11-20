@@ -6,7 +6,7 @@ excerpt: With the growing community interest in Gatsby, we hope to create more r
 timeToRead: 6
 authors:
   - Thiago Costa
-  - Dennis Brotzky
+  - Anshu meena
   - Brad Tiller
   - Mack Mansouri
 
